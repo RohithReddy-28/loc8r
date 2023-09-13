@@ -25,5 +25,13 @@
   "main": "app.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasritha17/Loc8r.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hasritha17/Loc8r/issues"
+  },
+  "homepage": "https://github.com/hasritha17/Loc8r#readme"
 }
